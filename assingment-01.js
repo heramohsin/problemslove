@@ -38,7 +38,7 @@ for (var day = 1; day <= lastDay; day++) {
 
 /** Problem 04 - (Delete / Store) */
 var fileName= "pdfData.jpg";
-//write your code here
+//write your code here...
 
 var extension = fileName.split(".").pop().toLowerCase();
 
